@@ -1,0 +1,21 @@
+# .NET Core
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.dbmdl
+*.bak
+*.log
+*.user
+*.suo
+*.userosscache
+*.suo
+*.cache
+*.csproj.user
+*.ncb
+*.swp
+*.tmp
+*.vs
+.vscode/
+.idea/
